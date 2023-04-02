@@ -1,0 +1,21 @@
+.my-btn {
+    background-color: red;
+    border-radius: 100px;
+    padding: 10px;
+    color: white;
+    border: 2px solid green;
+}
+
+.title {
+    color: brown;
+    background-color: green;
+}
+#my-frame{
+    border-radius: 100px;
+}
+
+article{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
